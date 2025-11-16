@@ -1,58 +1,64 @@
-<h1 align="center">Halo 👋, Saya [Abdul Jihad Indermawan]</h1>
-<h3 align="center">Seorang <i>Technical Project Owner</i> & <i>Implementer</i></h3>
+<h1 align="center">Halo 👋, Saya Abdul Jihad Indermawan</h1>
+<h3 align="center">Technical Project Owner • IT Implementer • System Builder</h3>
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <br>
+      <p>Dengan latar belakang sebagai <b>otodidak learning programmer IT</b>, saya berfokus pada eksekusi ide menjadi produk nyata. Saya adalah seorang <i>implementer</i> yang antusias dalam membangun dan meluncurkan aplikasi web modern dari berbagai <i>tech stack</i>.</p>
+      <p>Saya sangat menyukai arsitektur modern yang memisahkan <b>backend API (seperti NestJS/Laravel)</b> dengan <b>frontend SPA (seperti Vue/Quasar)</b>.</p>
+      <br>
+    </td>
+    <td valign="top" width="40%">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" 
+       alt="Coding GIF" width="100%" />
+  </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Teknologi & Tools Andalan
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bHU5YjN2NW02bHZlMGZkZjRvdXlwYjFoYmIzeHBtZHNqYjhtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCg9O/giphy.gif" width="400" />
-</p>
-
-<br>
-
-Dengan latar belakang sebagai **Kepala Divisi IT**, saya berfokus pada eksekusi ide menjadi produk nyata. Saya adalah seorang *implementer* yang antusias dalam membangun dan meluncurkan aplikasi web modern dari berbagai *tech stack*.
-
-Saya sangat menyukai arsitektur modern yang memisahkan **backend API (seperti NestJS/Laravel)** dengan **frontend SPA (seperti Vue/Quasar)**.
-
----
-
-### 🚀 Proyek yang Sedang (atau Pernah) Saya Kerjakan
-
-* **Aplikasi Kasir (POS) 💰:** Membangun sistem Point-of-Sale modern menggunakan **Quasar (Vue.js)**.
-* **PraktekDokter.Online 🩺:** Platform konsultasi dokter berbasis **Laravel** & **Filament**.
-* **Microservices "crc" ⚙️:** Arsitektur *event-driven* menggunakan **NestJS**, **TypeScript**, **MongoDB**, & **AWS SQS**.
-* **Sistem Check-in Klinik 📸:** Aplikasi *facial recognition* untuk *check-in* pasien menggunakan **Django (Python)**.
-* **Seishinkan Aikikai 🥋:** Website profil dojo Aikido (Latihan pribadi) menggunakan **Laravel 12** & **Filament 3**.
-
----
-
-### 🛠️ Teknologi & Tools Andalan Saya
-
-<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Filament-DB2777?style=for-the-badge&logo=filament&logoColor=white" alt="Filament">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-0A3A23?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Quasar-00B4FF?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/MongoDB-00A86B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
+
+---
+
+### 🚀 Project Highlight
+| Proyek | Deskripsi |
+| :--- | :--- |
+| 💰 **POS System (Quasar + Laravel)** | Sistem kasir F&B modern, transaksi cepat, modular, dan stabil. |
+| 🩺 **PraktekDokter.Online** | Platform konsultasi medis: booking, pembayaran, dan chat dokter–pasien. |
+| ⚙️ **Microservices "CRC"** | *Event-driven system* berbasis NestJS, MongoDB, & AWS SQS dengan *scalability* tinggi. |
+| 📸 **Sistem Check-in Klinik** | Absensi wajah + GPS menggunakan Python OpenCV & Django. |
 
 ---
 
 ### 📊 Statistik GitHub Saya
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[...USERNAME_KAMU...]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[...USERNAME_KAMU...]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=neo-adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-adrian&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
 
-### 📫 Hubungi Saya
-
-<p align="left">
-  <a href="https://www.instagram.com/zie___had/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="zie___had"/>
-  </a>
-</p>
+### 📈 Timeline Karier
+```mermaid
+timeline
+    title Perjalanan Karier
+    2010 : Pemegang program HIV/AIDS seksi P2M Dinkes Tangsel
+    2013 : Manager Operasional — Pengembangan Sistem Internal Village Hoster
+    2017 : Kepala Divisi IT — Manajemen Infrastruktur & Aplikasi
+    2021 : Full Implementer — Development dengan AI Assistance
+    2024 : System Architect Freelance — Web App Modern
+    2025 : Technical Project Owner — PT Pawon Gemilang Rasa
